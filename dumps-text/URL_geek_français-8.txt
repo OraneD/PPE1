@@ -1,0 +1,570 @@
+   Press J to jump to the feed. Press question mark to learn the rest of
+   the keyboard shortcuts
+   Search all of Reddit ____________________
+   Log InSign Up
+   (BUTTON) User account menu
+   [zOx8fQ+WgN7n58B
+   XNkAIgyEb+j5VQ0kgWCyO7G88gX8BA0iEQE02M2MAAAAASUVORK5CYII=] Found the
+   internet!
+   Feeds
+   Popular
+   Topics
+   (BUTTON) Gaming
+   ValheimGenshin ImpactMinecraftPokimaneHalo InfiniteCall of Duty:
+   WarzonePath of ExileHollow Knight: SilksongEscape from TarkovWatch
+   Dogs: Legion
+   (BUTTON) Sports
+   NFLNBAMegan AndersonAtlanta HawksLos Angeles LakersBoston
+   CelticsArsenal F.C.Philadelphia 76ersPremier LeagueUFC
+   (BUTTON) Business, Economics, and Finance
+   GameStopModernaPfizerJohnson & JohnsonAstraZenecaWalgreensBest
+   BuyNovavaxSpaceXTesla
+   (BUTTON) Crypto
+   CardanoDogecoinAlgorandBitcoinLitecoinBasic Attention TokenBitcoin Cash
+   (BUTTON) Television
+   The Real Housewives of AtlantaThe BachelorSister Wives90 Day FianceWife
+   SwapThe Amazing Race AustraliaMarried at First SightThe Real Housewives
+   of DallasMy 600-lb LifeLast Week Tonight with John Oliver
+   (BUTTON) Celebrity
+   Kim KardashianDoja CatIggy AzaleaAnya Taylor-JoyJamie Lee CurtisNatalie
+   PortmanHenry CavillMillie Bobby BrownTom HiddlestonKeanu Reeves
+   (BUTTON) More Topics
+   Animals and PetsAnimeArtCars and Motor VehiclesCrafts and DIYCulture,
+   Race, and EthnicityEthics and PhilosophyFashionFood and
+   DrinkHistoryHobbiesLawLearning and
+   EducationMilitaryMoviesMusicPlacePodcasts and
+   StreamersPoliticsProgrammingReading, Writing, and LiteratureReligion
+   and SpiritualityScienceTabletop GamesTechnologyTravel
+   Create an account to follow your favorite communities and start taking
+   part in conversations.
+   (BUTTON) Join Reddit
+   r/france
+   PostsWikiTwitter
+   Sujets hebdo
+   Forum LibreLundi SubredditMardi CuisineMercredi TechJeudi
+   CréationWeek-End CultureSamedi ÉcritureDimanche Autopromo
+   r/france
+   (BUTTON)
+   129
+   (BUTTON)
+   Posted by
+   Vélo
+   7 months ago
+   Archived
+
+Est-ce que "linux" et les logiciels libres sont vraiments de bons choix pour
+un particuliers ? Précisions ⤵️
+
+   Ask France
+
+   J'aimerai bien avoir des réponses raisonnables argumentés et
+   rationalles sur l'utilité d'un choix d'utiliser une distribution Linux
+   pu un logiciel libres dans la vie de tous les jours.
+
+   Je sais que ce sujets peut attirer des absolutistes des logiciels
+   libres, d'ailleurs c'est ce qui me rebute souvent dans cette
+   communauté, mais je crois voir certains avantages et pas des moindres.
+     * Quelle est votre perception sur l'utilité d'utiliser linux sur son
+       PC perso ( au-delà des incompatibilités de certains logiciels, je
+       le sais bien )
+     * Est-ce un choix idéologique ou effectivement qui peut être
+       rationnel selon vous ?
+     * **Est-ce que linux est vraiment plus sécurisé que Windows ou l'os
+       d'apple ? **
+     * Est-ce que les logiciels libres sont un choix d'avenir ou un mode
+       de développement en perdition ?
+
+   Merci
+
+   PS: quand j'étais jeune ≈15 ans j'ai commencé à utiliser linux (j'étais
+   dans ma période geek et extrémistes mais j'étais jeune) avec le temps
+   je suis sorti de cette vision "absolutiste/populiste" qu'aujourd'hui je
+   juge toxique, je suis repassé sous windows. Mais depuis quelques années
+   j'entends de plus en plus de bons arguments, rationnel et techniques
+   sur l'Open Source etc
+
+   Donc je demande l'avis de la comu 😊
+   272 comments
+   (BUTTON) share
+   (BUTTON) save
+   (BUTTON) hide
+   (BUTTON) report
+   (BUTTON)
+   90% Upvoted
+   This thread is archived
+   New comments cannot be posted and votes cannot be cast
+   (BUTTON) Sort by: best
+   (BUTTON)
+   level 1
+   Mod Moderator Achievement · 7 mo. ago · Stickied comment
+
+   Tu ne trouves pas la réponse à ta question ici ? Tu la trouveras
+   peut-être sur r/askfrance
+
+   Not finding the answer you're looking for ? You might find it on
+   r/askfrance
+
+   I am a bot, and this action was performed automatically. Please contact
+   the moderators of this subreddit if you have any questions or concerns.
+   (BUTTON)
+   Vote
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   (BUTTON)
+   level 1
+   · 7 mo. ago
+
+   J'utilise Ubuntu depuis 15 ans, a part pour certain jeux qui ne
+   tournent que sur Windows. Utilisation web, bureautique de base, script
+   d'automatisation de tâches, montage vidéo, MAO basique, émulation et
+   rétro gaming, steam propose beaucoup de jeux sur Linux. Dès que je
+   passe sur Windows, je trouve que tout est lourd et mal pensé. Même les
+   menu de configuration sont beaucoup plus logique sous Ubuntu que sur
+   Windows, et la gestion des mise a jour sur Windows est abominable
+
+   mes parents étaient sur Windows, ils m'appellaient souvent pour des pb
+   a la con, changement d'app par défaut lors de mise a jour (ce sont des
+   brêle en info), pb d'antivirus etc. Lourd, lent etc. Ils ont voulu
+   changer de pc tellement il était devenu lent. Je leur ai proposé de
+   tester Linux avant, ça ne coûtait rien. J'ai mis une debian avec tout
+   ce qu'il fallait par rapport à leurs besoins. Ça fait 4 ans et il ne
+   m'ont jamais appelé à l'aide, ils sont très contents.
+
+   Le seul pb de Linux c'est le fait que certains outils ne sont pas
+   conçus pour tourner dessus. Selon les besoins c'est rédhibitoire.
+
+   Avec mon expérience, il est rationnel d'être sur Linux par défaut et de
+   passer sur Windows quand on n'a pas le choix.
+   (BUTTON)
+   157
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   (BUTTON)
+   level 2
+   · 7 mo. ago · edited 7 mo. ago
+
+   Avec Proton le gaming est de moins en moins un problème. Genre dans les
+   2 dernières années y a eu une baisse significative de la friction (et
+   du temps perdu à configurer Wine).
+
+   Le vrai point de résistance restant, c'est les softs pro (genre
+   logiciel de compta), la suite adobe, les trucs du genre. Effectivement,
+   pour ces applis, je dois avoir windows en dualboot.
+
+   De mon point de vue d'utilisateur moyen, ce qui fait que je repasserais
+   pas sous Windows, c'est le coté bloatware de windows, avec la pub
+   jusque dans le menu démarrer.
+   (BUTTON)
+   51
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 2
+   · 7 mo. ago
+   Vacciné, double vacciné
+
+   Un autre MAOiste (pas de blague) sur Ubuntu ? Quels logiciels
+   utilises-tu ?
+   (BUTTON)
+   4
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 2
+   · 7 mo. ago
+   Roi d'Hyrule
+
+   Une question pour toi, récemment j'ai entendu dire que Ubuntu avait mis
+   en place des outils de recueils statistiques dans leur systèmes que
+   certains trouvent abusifs, allant même jusqu'à qualifier ces outils
+   "d'espionnages". C'est une affaire qui me rappelle la polémique
+   Audacity à certains niveau.
+
+   Est-ce que c'est vrai qu'Ubuntu à mis en places des outils de
+   surveillance dans son système ou bien est-ce que c'est des cracks
+   racontés par les fanatiques des autres distros ?
+
+   Si c'est vrai çà me fout les boulles parce que je voulais switch sur
+   ubuntu après windows 10 vu que windows 11 à vraiment l'air de partir en
+   couilles.
+   (BUTTON)
+   1
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 1
+   Cake day · 7 mo. ago
+   Hong-Kong
+
+   Il y a des supers reponses déjà donc je vais pas trop m'etaller mais
+   j'ai pour habitude de dire que si ton utilisation d'un ordinateur est
+   "normale" (Browser, Facebook, Gmail, PDF, traitement de texte, tableur)
+   et ne necessesite pas un logiciel bien particulier (Autocad, Ableton,
+   Photoshop, Premiere...ce genre de chose pro dont tu peux pas vraiment
+   choisir des alternatives), il n'y a vraiment aucune raison d'utiliser
+   Windows ni même MacOs (que personellement j'aime beaucoup mais c'est
+   juste pas donné).
+
+   Il y clairement des choix ideologique tres louable mais il existe
+   surtout un coté financier (tu peux utiliser un vieil ordi, pas de
+   licence à payer) non negligeable. Et pour finir, certaines distribution
+   Linux sont vraiment simple et vraiment agreable à regarder (Pop! Os) et
+   à utiliser (Ubuntu), fini le temps ou Linux c'etait un clone visuel de
+   Windows 3.1.
+
+   Mes parents sont du style à ne pas toujours avoir vraiment compris
+   comment faire un Copier / Coller mais ils sont sous Ubuntu depuis
+   presque 15 ans et ils y arrive sans soucis et moins j'ai l'esprit
+   tranquille.
+   (BUTTON)
+   53
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   (BUTTON)
+   level 1
+   · 7 mo. ago
+
+   L’utilisation de Linux et des logiciels libres populaires type open
+   office etc. est possible et plutôt aisé aujourd’hui. Il y a beaucoup
+   moins de problèmes de pilotes, de compatibilité etc.
+
+   Cependant, quand il y a un problème, c’est beaucoup plus difficile de
+   trouver la solution car c’est une minorité d’utilisateurs, et les
+   solutions requièrent parfois des connaissances techniques avancées.
+
+   Pour certains c’est un choix idéologique, mais ça peut-être un choix
+   pratique, par exemple quand on est dev dans un milieu qui utilise
+   énormément de Linux et de l’OSS, c’est utile et cohérent de continuer à
+   l’utiliser chez soi. Ça peut aussi être un choix de simplicité,
+   aujourd’hui on peut presque tout faire avec un navigateur, donc un
+   Linux avec un navigateur à jour peut très bien suffire à beaucoup
+   d’utilisateurs (c’est le principe de Chromium).
+
+   Sans même parler du côté technique de la sécurité, il y a simplement le
+   faire que Linux est aujourd’hui un OS très minoritaire pour le grand
+   public, donc les hackers n’ont pas de motivation à développer des virus
+   et attrape couillons spécial Linux. Cependant, Linux étant majoritaire
+   sur les serveurs web, c’est une vrai cible pour tout ce qui failles de
+   sécurité protocoles, kernel etc.
+
+   Au sujet des logiciels libres, je pense que cela dépend des projets.
+   Certains comme open office ont de la concurrence rude avec des
+   solutions simples, gratuites et en ligne comme google docs. D’autres,
+   comme Blender, ont aujourd’hui un support financier important et des
+   communautés de plus en plus investies et sont en train de devenir de
+   vraies alternatives aux concurrents coûteux, même dans le monde
+   professionnel.
+   (BUTTON)
+   36
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   (BUTTON)
+   level 2
+   · 7 mo. ago
+
+   Rappel qu'open office n'est plus maintenu depuis 2016 et qu'il faut
+   maintenant utiliser LibreOffice
+   (BUTTON)
+   50
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 2
+   · 7 mo. ago
+   Occitanie
+
+     Cependant, quand il y a un problème, c’est beaucoup plus difficile
+     de trouver la solution car c’est une minorité d’utilisateurs, et les
+     solutions requièrent parfois des connaissances techniques avancées.
+
+   Je ne géneraliserai pas sur ce point. Quand tu te retrouves coincé, la
+   solution est généralement d'aller regarder sur internet:
+
+   - Avec Linux, tu vas généralement trouver une solution en ligne de
+   commande avec un fichier à éditer ou quelques commandes à
+   copier/coller.
+
+   - Avec Windows, on va te demander d'aller regarder dans les Paramètrs,
+   les options sont nommés différemment selon la langue de l'OS et
+   Microsoft s'amuse à changer les Settings et déplacer les options tous
+   les deux mois, ce qui fait qu'on ne trouve pas l'option.
+   (BUTTON)
+   21
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 2
+   · 7 mo. ago
+
+   Je trouve au contraire que la communauté Linux est prompte à aider sur
+   les forums et sur Reddit.
+   (BUTTON)
+   2
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   (BUTTON)
+   level 1
+   · 7 mo. ago
+   Normandie
+
+   Je te dirai que tout dépend de ton utilisation. Si c'est pour de la
+   bureautique il n'y a aucun souci. Si c'est pour regarder Netflix
+   youtube et faire de la navigation Internet aucun souci. Pour le jeux
+   vidéo c'est possible mais ça dépend des jeux (Steam a beaucoup fait
+   bouger les choses) si tu veux utiliser des logiciels professionnel ça
+   devient plus compliqué (et arrêter de dire que GIMP c'est comme
+   photoshop car ce n'est pas vrai. Une twingo peut aussi me faire un
+   trajet de 1000k mais c'est pas une Mercedes....) Pour résumer tout
+   dépend de ton utilisation et surtout dirige toi vers une distribution
+   grand public si tu veux avoir le moins de problème possible. Je trouve
+   que Linux mint est un bon choix pour du pc perso sans prise de tête.
+
+   A toi de tester pour voir si tes logiciel fonctionne et si ça te
+   convient.
+   (BUTTON)
+   41
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   (BUTTON)
+   level 2
+   · 7 mo. ago
+
+   Petite précision concernant Netflix, c'est 720p seulement sur Linux
+   (BUTTON)
+   5
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 2
+   · 7 mo. ago · edited 2 mo. ago
+   Daft Punk
+
+   GIMP est loin d'être une alternative viable à Photoshop, en revanche,
+   tu peux tester Krita qui reste une alternative libre très efficaces à
+   Photoshop. Pour aller plus loin, je te recommande le site Alternativeto
+   qui permet de trouver des alternatives open-sources à pas mal de
+   logiciels. Perso ma vision du libre à beaucoup changer, avant
+   j'utilisais de l'open-source tout le temps (quitte à me passer de
+   certains softs) et je tournais sur OpenBSD. Aujourd'hui, je suis moins
+   radical dans mon utilisation : j'ai un mac et un ordi sous OpenBSD et
+   je trouve que c'est un super compromis.
+   (BUTTON)
+   20
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 2
+   · 7 mo. ago
+   Normandie
+
+   GIMP, c'est certainement pas comme Photoshop, mais c'est tout aussi
+   bien certainement. La qualité des logiciels libre, c'est pas vraiment
+   le problème : c'est plus qu'il faut changer ses habitudes.
+   (BUTTON)
+   -2
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   Continue this thread
+   (BUTTON)
+   level 1
+   · 7 mo. ago
+
+     * Perception
+
+   Juste pour fixer la réponse, je suis un vieux avec plus de 25 ans de
+   linux derrière moi. Cela doit faire 20 ans que je n'ai plus du tout de
+   windows.
+
+     * Idéologique/rationnel
+
+   Cela dépend du moment et du point de vue, il y a une part des deux. En
+   ce moment c'est totalement rationnel, les collègues que je connais
+   utilisant windows font des choses très différentes de moi.
+
+     * Sécurité
+
+   Le premier problème en sécurité se situe entre la chaise et le clavier.
+   Tu peux faire n'importe quoi avec Linux aussi.
+
+     * Est-ce que les logiciels libres sont un choix d'avenir ou un mode
+       de développement en perdition ?
+
+   C'est une question étrange, c'est là dessus que je voulais développer.
+   On a vu récemment des anonymes se rebeller face à l'utilisation sans
+   compensation de leur travail, ou face à des évènements comme la guerre
+   en Ukraine. Cela a entraîné des pannes ponctuelles, vite réparées par
+   la communauté. Il y a une prise de conscience avec le départ de
+   certains anciens d'une certaine fragilité du modèle. Cela reste le
+   modèle de développement qui permet le plus d'innovation. Pour moi la
+   réponse c'est plutôt un ni l'un ni l'autre. Une grosse partie des
+   logiciels libres sont en réalité financés par des entreprises qui
+   dédient du temps développeur pour entretenir une partie logicielle
+   importante pour eux, ou pour attirer des talents qui sont très attachés
+   au domaine du libre.
+   (BUTTON)
+   4
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON) Report (BUTTON) Save
+   (BUTTON)
+   (BUTTON)
+   level 1
+   Comment deleted by user · 7 mo. ago
+
+About Community
+
+   Subreddit Icon
+   r/france
+   Le subreddit pour ce qui concerne la France et les Français
+   Created Mar 19, 2008
+     __________________________________________________________________
+
+   1.1m
+
+   Courageux travailleurs
+   3.4k
+
+   Déprimés de la rentrée
+     __________________________________________________________________
+
+   (BUTTON) Join
+
+Similar to this post
+
+     * Subreddit Icon r/conseiljuridique
+       Assurances : que signifie "Tierce Maintenance Applicative"
+       100%
+       11
+       Nov 21
+     * Subreddit Icon r/france
+       [Z8a7JzvBon2SG2dQHVUZEtQIfQU9RtvAXhwysiYWcKA.jpg]
+       Deux magistrates font un « faux » qui envoie un homme en...
+       94%
+       108
+       Sep 24
+     * Subreddit Icon r/CrossDressRealism
+       [p57NwZRBspAjpxPdY4-f8XW2swAG4scARoMinwmpszo.jpg]
+       Samedi soir. Ma première sortie en fille.
+       100%
+       6
+       1d
+     * Subreddit Icon r/france
+       [fUYuf3OIFmz6H-CcKDV8pQSKYHlP--eoJCfHHu0SvfE.jpg]
+       Des jeunes artistes lituaniens protestent contre l’Europe...
+       88%
+       317
+       Apr 23
+     * Subreddit Icon r/Quebec
+       Est-ce que je suis le seul qui ne veux plus lire les...
+       87%
+       69
+       May 10
+     * Subreddit Icon r/Quebec
+       Est-ce que la qualité du Français écrit s'est réellement...
+       89%
+       96
+       Mar 23
+     * Subreddit Icon r/france
+       Est-ce que les numéros d'arnaque téléphonique s'appellent...
+       92%
+       2
+       May 17
+     * Subreddit Icon r/france
+       Est-ce que, vous aussi, le paysage politique français...
+       92%
+       269
+       Mar 23
+     * Subreddit Icon r/Quebec
+       Est-ce que je peux acheter des bandés dessinés et des...
+       92%
+       25
+       Mar 24
+     * Subreddit Icon r/france
+       [v_C4XCNNB2wH10nLw5UfAuYz-Oq-9VONNCAoi6kkVo4.jpg]
+       I’m American and just seen this post. Is this true? If it...
+       90%
+       776
+       2d
+     * Subreddit Icon r/france
+       [PZasTFM50qEJttg1bnE1ezlGTXxiion7Jtjy2XqvPK0.jpg]
+       Le youtubeur Norman Thavaud en garde à vue pour viols et...
+       94%
+       934
+       1d
+     * Subreddit Icon r/france
+       [8dz52eL7oiM2Lmo4bXDN5Vq_7wNBH4NM5pwyc4IROmo.jpg]
+       Vous devriez envoyer vos enfants à ce stage très éducatif.
+       98%
+       38
+       4d
+     * Subreddit Icon r/france
+       [lZf2ArkMHA5myNm8GsvPxQ-sN5GfEmHyDPbbraLKy1E.jpg]
+       Sexisme : la streameuse Ultia porte plainte pour...
+       92%
+       608
+       5d
+     * Subreddit Icon r/france
+       [49HqapX6aLprPwxOjW7iXM4NSBXaej7fDj81yi5QWqs.jpg]
+       La France, mesdames et messieurs
+       96%
+       53
+       3d
+     * Subreddit Icon r/france
+       [SDTO5jz12kvdBXaNSv0hd98YGOR26cpEbRUHkcW1ecY.jpg]
+       Nantes, 1895 (Colorized)
+       99%
+       38
+       1d
+
+   Top posts may 1st 2022Top posts of may, 2022Top posts 2022
+   User AgreementPrivacy policy
+   Content policyModerator Code of Conduct
+   Reddit Inc © 2022. All rights reserved
+   (BUTTON) Back to Top
+   Reddit and its partners use cookies and similar technologies to provide
+   you with a better experience.By accepting all cookies, you agree to our
+   use of cookies to deliver and maintain our services and site, improve
+   the quality of Reddit, personalize Reddit content and advertising, and
+   measure the effectiveness of advertising.By rejecting non-essential
+   cookies, Reddit may still use certain cookies to ensure the proper
+   functionality of our platform.For more information, please see our
+   Cookie Notice and our Privacy Policy .
+   (BUTTON) Accept all
+   (BUTTON) Reject non-essential
+
+   Advertisement
