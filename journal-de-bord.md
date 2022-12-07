@@ -20,3 +20,5 @@ le fichier du tableau et le script terminé mais pas les dossiers et autres fich
 
 J'ai finalement décidé de mettre mon script et le traitement des URLs sur mon git personnel afin de pouvoir corriger certaines erreurs sans avoir à push
 sur le git du groupe. J'ai notamment corrigé le script en rajoutant la variable $basename dans les noms de mes fichiers.
+
+Ajout du script itrameur et des fichiers générés avec. J'ai dû modifier le script pour que les noms de mes fichiers correspondent à ceux du script.
