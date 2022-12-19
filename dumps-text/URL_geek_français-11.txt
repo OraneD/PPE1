@@ -95,9 +95,9 @@ Modérateur
 
           6 Août 2019
 
-          2 779
+          2 786
 
-          648
+          649
 
           39
 
@@ -122,9 +122,9 @@ Acrobate de l'espace
 
           31 Janvier 2005
 
-          55 794
+          55 892
 
-          10 718
+          10 742
 
           Nancy___
 
@@ -308,9 +308,9 @@ Acrobate de l'espace
 
           31 Janvier 2005
 
-          55 794
+          55 892
 
-          10 718
+          10 742
 
           Nancy___
 
@@ -341,9 +341,9 @@ Dark Star
 
           22 Avril 2006
 
-          23 199
+          23 201
 
-          5 937
+          5 942
 
           Là-haut
 
@@ -384,9 +384,9 @@ Membre expert
 
           15 Août 2010
 
-          1 329
+          1 331
 
-          278
+          284
 
           Afrique
 
@@ -407,7 +407,7 @@ Membre actif
 
           467
 
-          541
+          550
 
      * 14 Octobre 2020
 
@@ -436,9 +436,9 @@ Acrobate de l'espace
 
           31 Janvier 2005
 
-          55 794
+          55 892
 
-          10 718
+          10 742
 
           Nancy___
 
@@ -502,9 +502,9 @@ Membre expert
 
           15 Août 2010
 
-          1 329
+          1 331
 
-          278
+          284
 
           Afrique
 
@@ -560,9 +560,9 @@ Membre expert
 
           15 Août 2010
 
-          1 329
+          1 331
 
-          278
+          284
 
           Afrique
 
@@ -586,9 +586,9 @@ Dark Star
 
           22 Avril 2006
 
-          23 199
+          23 201
 
-          5 937
+          5 942
 
           Là-haut
 
@@ -665,7 +665,6 @@ Membre expert
    Hackintosh HP ProBook 4340s de 2012 en 13", avec un I3 à
    refroidissement passif, 10Go de RAM sous Mojave.
    IPad 1 neuf, iPad 3, iPhone 4
-   [INS: :INS]
    Operating
 
 Operating
@@ -717,6 +716,7 @@ What can I do for you ?
    En cas de problème majeur, contactez
    Apple Care par téléphone : 0805 540 003
    Si vous résidez dans un autre pays, voici leurs coordonnées.
+   [INS: :INS]
    Sly54
 
 Sly54
@@ -728,9 +728,9 @@ Acrobate de l'espace
 
           31 Janvier 2005
 
-          55 794
+          55 892
 
-          10 718
+          10 742
 
           Nancy___
 
@@ -765,7 +765,7 @@ Sujets similaires
           15
 
    Affichages
-          608
+          650
 
    Utilitaires 16 Novembre 2022
    facecachee3
@@ -780,7 +780,7 @@ Sujets similaires
           5
 
    Affichages
-          750
+          764
 
    Utilitaires 30 Novembre 2020
    Locke
@@ -795,7 +795,7 @@ Sujets similaires
           4
 
    Affichages
-          445
+          474
 
    macOS 23 Septembre 2022
    pyxel_
@@ -810,7 +810,7 @@ Sujets similaires
           0
 
    Affichages
-          443
+          447
 
    macOS 31 Octobre 2021
    moribond
@@ -822,14 +822,14 @@ Sujets similaires
      * Mac
 
    Réponses
-          17
+          18
 
    Affichages
           2K
 
-   Mac 14 Novembre 2022
-   jessy chancerel
-   J
+   Mac Vendredi à 10:11
+   wolf 1734
+   W
 
      * App Store et applications
 
@@ -840,55 +840,55 @@ Sujets similaires
 Statistiques du forum
 
    Sujets
-          467 208
+          467 371
 
    Messages
-          5 543 117
+          5 544 185
 
    Membres
-          158 623
+          158 720
 
    Dernier membre
-          gargams
+          tichrom
 
 Sujets récents
 
-     * Sly54
-       modifier nom d'utilisateur sur leopard
-          + Dernier : Sly54
-          + il y a 6 minutes
-       Classic Mac
-     * J
-       iOS 16 Mail et extraction
-          + Dernier : jd59
-          + il y a 10 minutes
+     * S
+       MacBook Pro Nappe SATA MacBook Pro 2010 défectueuse ?
+          + Dernier : STudio26
+          + il y a 16 minutes
+       Mac
+     * zirko
+       iOS 16 Mode toujours activé s'éteint le soir
+          + Dernier : zirko
+          + il y a 59 minutes
        iOS
+     * T
+       MacBookPro fatigué - Problème de hard ou software ?
+          + Dernier : tichrom
+          + Hier à 23:39
+       Mac
+     * S
+       MacBook Air MacBook Air 2020 qui reste sur la pomme
+          + Dernier : Supergarvis
+          + Hier à 23:32
+       Mac
      * P
-       Photos sur iMac: Localisation photos à partir de la photothèque
-          + Dernier : Polo35230
-          + il y a 15 minutes
-       Photo
-     * loustic
-       Le jeu des 5 lettres
-          + Dernier : loustic
-          + il y a 24 minutes
-       La salle de jeu
-     * love_leeloo
-       macOS Ventura Dossier indésirable dans Documents de Finder.
-          + Dernier : love_leeloo
-          + il y a 25 minutes
-       macOS
+       probleme de clavier sur parallels desktop
+          + Dernier : Philippe777
+          + Hier à 23:30
+       Accessoires Mac
 
 En ligne
 
    Membres connectés
-          28
+          4
 
    Visiteurs en ligne
-          1 398
+          577
 
    Total
-          1 426
+          581
 
    Le total inclut les membres cachés.
 

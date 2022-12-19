@@ -22,3 +22,12 @@ J'ai finalement décidé de mettre mon script et le traitement des URLs sur mon 
 sur le git du groupe. J'ai notamment corrigé le script en rajoutant la variable $basename dans les noms de mes fichiers.
 
 Ajout du script itrameur et des fichiers générés avec. J'ai dû modifier le script pour que les noms de mes fichiers correspondent à ceux du script.
+
+
+J'ai rencontré un problème avec le script "concordances.sh" qui est lancé depuis le script principal. 
+Les concordances à droite posaient problème, elles affichaient le mot recherché.. Il s'agissait d'un problème de parenthèse dans l'expression régulière du script. 
+Nous avons réussi à le régler avec mon groupe. 
+
+J'ai commencé à travailler sérieusement sur le site web de mon git personnel afin de me former. 
+Je travaille avec bulma, grâce à la documentation qu'on peut trouver le site, je suis parvenue à générer une page d'accueil et divers onglets qui mènent à d'autres pages, pour l'instant vides.
+J'ai encore des difficultés quant à l'architecture des pages, c'est que je ne connais pas bien les class html mais je continue d'expérimenter sur ma page personnelle. 

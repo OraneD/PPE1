@@ -91,6 +91,15 @@
    Lire Le Figaro en PDF en ligne Lire le journal
    Abonnez-vous 0,99€ le premier mois
 
+     * (BUTTON) Éditions locales
+     * Podcasts
+     * Vidéos
+     * Newsletters
+
+     * Bordeaux
+     * Nantes
+     * Nice
+
     1. Accueil
     2. Actualité
     3. Blogs
@@ -398,6 +407,9 @@ Culture Geek dans Libé: hommage ou enterrement
      * Les résultats sportifs
      * Carnet du jour
      * Figaro Store
+     * Le Figaro Bordeaux
+     * Le Figaro Nantes
+     * Le Figaro Nice
 
    Le Figaro
    Le Kiosque

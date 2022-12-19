@@ -25,7 +25,8 @@ then
 	exit
 fi
 
-mot="[G|g](eek)(s?|ettes?|er?|é?)" # penser à rajouter d'autres formes pour améliorer !! (genre/nombre/les cas! + guillemets ? + écriture emprunté ?)
+mot="[Gg]eeks?(ettes?|é|er)?" # penser à rajouter d'autres formes pour améliorer !! (genre/nombre/les cas! + guillemets ? + écriture emprunté ?)
+mot2= 
 
 
 #-------------------------Génération du tableau----------------------------#

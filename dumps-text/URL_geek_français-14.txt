@@ -65,7 +65,7 @@ Forum Marvel Comics
           fred le mallrat
           Admin-Man
 
-          Messages: 26051
+          Messages: 26097
           Inscrit le: 17 Oct 2005, 09:34
           Localisation: Bordeaux
 
@@ -114,6 +114,7 @@ Heroes database
        UTC + 1 heure
 
    Toluki
+                                    cron
    Forumcomics, le forum des comics Marvel, mais aussi DC, Topcow, Star
    wars, Lobo, etc. Découvrez tout sur l'univers des collectionneurs de
    bustes et statues Bowen, Attakus, Sideshow. Venez discuter de vos

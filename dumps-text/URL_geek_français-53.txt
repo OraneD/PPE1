@@ -2,7 +2,7 @@
 
    [tr?id=1025010277520259&ev=PageView&noscript=1]
 
-   [logo-mobile-www.png?version=20221123160422]
+   [logo-mobile-www.png?version=20221215141925]
    Téléchargez
    notre application
    Ouvrir
@@ -63,6 +63,7 @@
           + Région Sud - Nice
           + Smart cities
      * T La revue
+          + N°12 - Climat : Et si on changeait nous aussi ?
           + N°11 - Habitat, sommes-nous prêts à (dé)construire ?
           + N°10 - Pourquoi faut-il sauver l’eau ?
           + N°9 - Travailler, est-ce bien raisonnable ?
@@ -134,15 +135,15 @@
                o Le G20 en six leçons
           + International
           + Politique
-       5 infos
-       Les 5 infos business à retenir ce mercredi matin (RTE, AF447,
-       bouclier tarifaire, ENR, carburant)
-       prix à la pompe
-       Carburant : indemnité de 100 euros pour les 10 millions de «
-       travailleurs » les plus modestes
-       Roux de Bézieux
-       Risque de désindustrialisation en Europe : une « urgence absolue »,
-       alertent le Medef et les industriels 8
+       Cop15, le sommet de deux semaines de l'onu sur la biodiversite a
+       montreal
+       COP15 : la Chine livre son projet d'accord pour la protection de la
+       biodiversité
+       La vice-presidente du parlement europeen, la socialiste grecque eva
+       kaili
+       « Qatargate » : Le Qatar contre-attaque face au Parlement européen
+       Sunak et Hunt
+       Le Royaume-Uni mobilise ses troupes pour faire face aux grèves 3
      * Bourse
           + Actualité
           + La Bourse en continu
@@ -182,14 +183,13 @@
                o L'actualité
                o La Tribune de la COP21
        T La Revue n°12
-       Climat : « La sobriété est aussi une forme de retour au bon sens »
-       (Françoise Vimeux)
-       électricité
-       Électricité : la consommation française chute encore (-8,3%) 1
-       Photo d'archives montrant le logo de framatome photographie au
-       world nuclear exhibition (wne), a villepinte pres de paris
-       Nucléaire : mais qui va enrichir l'uranium naturel russe de
-       Framatome ?
+       Alix Roumagnac, un homme face au climat
+       T La Revue n°12
+       Climat et politique : je t’aime moi non plus
+       T La Revue n°12
+       Climat : « Le capitalisme s'est emparé des valeurs de
+       l'écoresponsabilité pour créer le mythe du capitalisme responsable
+       » (Fanny Parise)
      * Tech
           + Médias
           + Publicité
@@ -201,16 +201,16 @@
           + Start-up
           + French Tech
           + Mobilités : cap 2024
-       David Gurle
-       « La technologie décentralisée est idéale pour construire un cloud
-       souverain », David Gurlé (Hive)
-       Photo d'archives des drapeaux de l'union europeenne devant le siege
-       de la commission europeenne a bruxelles
-       L’écart entre la tech américaine et européenne se creuse, selon
-       l'Institut Montaigne
-       Fibre optique
-       Déploiement de la fibre : Orange accepte de mieux rémunérer ses
-       sous-traitants
+       Elon musk a l'ouverture d'une usine tesla
+       Elon Musk reprend sa censure sur Twitter et suspend un nouveau
+       compte de journaliste 2
+       Une illustration montre l'image d'elon musk sur un smartphone et
+       des logos twitter imprimes
+       Après la suspension de comptes Twitter de journalistes, Musk fait
+       machine arrière 2
+       Une illustration montre une photo d'elon musk et le logo de twitter
+       Pourquoi le Twitter d'Elon Musk a-t-il banni plusieurs journalistes
+       et son principal concurrent ?
      * Idées
           + Tribunes
           + Éditos
@@ -225,15 +225,13 @@
                o Génération Peur de rien
                o Vu de Bruxelles
           + Podcast - Les Héritières
-       predateur
-       COP15 : du Népal au Brésil, les grands prédateurs menacés par les
-       projets routiers 1
-       Dussopt
-       La réforme de l’assurance-chômage pourrait creuser les inégalités
-       et accélérer la polarisation de l'emploi
-       Grenouille
-       COP15 : comment financer un accord ambitieux pour protéger la
-       biodiversité ? 1
+       iran coupe du monde
+       Le football iranien, la Coupe du monde et la révolte 1
+       Argentine: s&p confirme la note a long terme a b+
+       Le régime péroniste, racine du déclin économique de l’Argentine 2
+       trenitalia
+       TGV Paris-Lyon : un an après, l’arrivée de Trenitalia rime-t-elle
+       effectivement avec prix plus bas ? 6
      * Régions
           + Auvergne-Rhône-Alpes
           + Bourgogne-Franche-Comté
@@ -252,18 +250,17 @@
           + Région Sud - Nice
           + Smart cities
                o La Tribune de Carlos Moreno
-       Valérie Pécresse
-       Liens supposés entre Alstom et Valérie Pécresse : le Parquet ouvre
-       une enquête pour prise illégale d'intérêts 11
-       France/primaire de la gauche: accueil glacial pour la proposition
-       d'hidalgo
-       Budget à Paris : l'équipe d'Hidalgo contre-attaque et dénonce les «
-       mensonges » de la droite et du gouvernement
-       Il y a six mois, les deux entrepreneurs ont ouvert trois sites dans
-       le pays Beaunois, entre Gevrey Chambertin, et Chagny.
-       Du coworking sur-mesure à la campagne : « La réussite est dans le
-       pré » veut tisser sa toile en milieu rural
+       Grand Paris
+       Bagarre fiscale sur les recettes du Grand Paris : Matignon promet
+       d'enterrer la hache de guerre
+       Bluemooov
+       De la Tunisie à la Mayenne : Bluemooov relocalise la fabrication de
+       ses vélos cargos
+       Connected Women à Angers
+       Parité : avec Women Connected, la French Tech Angers veut mobiliser
+       sur l’égalité des chances
      * T La revue
+          + N°12 - Climat : Et si on changeait nous aussi ?
           + N°11 - Habitat, sommes-nous prêts à (dé)construire ?
           + N°10 - Pourquoi faut-il sauver l’eau ?
           + N°9 - Travailler, est-ce bien raisonnable ?
@@ -275,12 +272,12 @@
           + N°3 - Rêvons nos villes
           + N°2 - Fabriquer (tout) français
           + N°1 - Partageons l'économie
+       T La Revue n°12
+       T La Revue « spécial climat » est en kiosque
        T La Revue n°11
        T La Revue « spécial habitat » est en kiosque
        T La Revue n°10
        T La Revue « spécial eau » est en kiosque 1
-       T La Revue n°9
-       T La Revue « spécial travail » est en kiosque
 
      * Économie
      * Bourse
@@ -290,11 +287,13 @@
      * Régions
      * T La revue
 
-     * CAC 40 6 683,96 PTS -0,05%
-     * + FORTES HAUSSES CAC 40 SANOFI +8,03% RENAULT +0,69%
-     * + FORTES BAISSES CAC 40 ALSTOM -3,33% KERING -2,44%
-     * DOW JONES -1,03% NASDAQ 100 -2,01% EURONEXT 100 -0,36%
-     * Or +0,00% OAT 10 ans -3,16% Pétrole Brent -9,89%
+     * CAC 40 6 452,63 PTS -1,08%
+     * + FORTES HAUSSES CAC 40 BNP PARIBAS-A- +1,68% SOCIETE GENERALE
+       +1,27%
+     * + FORTES BAISSES CAC 40 UNIBAIL-RODAMCO-WESTFIELD -4,74% EUROFINS
+       SCIENTIFIC -3,54%
+     * DOW JONES -0,85% NASDAQ 100 -0,89% EURONEXT 100 -1,13%
+     * Or +0,24% OAT 10 ans +6,38% Pétrole Brent -9,89%
 
 
 
@@ -716,61 +715,60 @@ Niel toilette sa recette low-cost pour s'implanter en Italie
 
    1
 
-   revue T Camions électriques : le pied de nez de Renault Trucks à Tesla
+   revue T Nucléaire : mais qui va enrichir l'uranium naturel russe de
+   Framatome ?
      __________________________________________________________________
 
    2
 
-   revue T Nouveau succès de Navantia en Arabie Saoudite : l'énorme claque
-   pour la France et Naval Group
+   revue T Retraites : faut-il craindre une grève générale en janvier ?
      __________________________________________________________________
 
    3
-
-   Boeing propose de livrer à l'Ukraine des petits missiles low-cost de
-   haute précision fabriqués avec Saab
-     __________________________________________________________________
-
-   4
-
-   Électricité : la consommation française continue de chuter
-     __________________________________________________________________
-
-   5
 
    revue T Rafale, SCAF : les tentations embryonnaires de l'Arabie
    Saoudite
      __________________________________________________________________
 
-   1
-
-   revue T En finir avec l’indexation du SMIC sur l’inflation : la
-   proposition choc d'un groupe d'experts (53)
-     __________________________________________________________________
-
-   2
-
-   revue T Retraites : les petites pensions, l'autre dossier explosif du
-   gouvernement (45)
-     __________________________________________________________________
-
-   3
-
-   Age de départ à la retraite : Elisabeth Borne vise toujours 65 ans
-   mais… (41)
-     __________________________________________________________________
-
    4
 
-   Emmanuel Macron prévoit une année 2023 difficile pour l'économie
-   française (33)
+   revue T Fusion nucléaire par laser : Thales et Marvel Fusion unissent
+   leurs forces
      __________________________________________________________________
 
    5
 
-   200.000 postes non-pourvus dans l'hôtellerie-restauration: Thierry Marx
-   (UMIH) appelle à une régularisation « rapide » des salariés étrangers
-   (29)
+   Plafonnement du prix du pétrole russe : Moscou prépare sa riposte
+     __________________________________________________________________
+
+   1
+
+   Électricité: 40 réacteurs nucléaires en service ce vendredi, la
+   remontada d'EDF (46)
+     __________________________________________________________________
+
+   2
+
+   revue T Le nucléaire, condition sine qua non à la réindustrialisation
+   de la France (Le Maire) (43)
+     __________________________________________________________________
+
+   3
+
+   Corruption au Parlement européen : la vice-présidente Eva Kaili est
+   inculpée et écrouée (43)
+     __________________________________________________________________
+
+   4
+
+   revue T Vent de panique à la tête de l'État face au « scénario de la
+   peur » (40)
+     __________________________________________________________________
+
+   5
+
+   revue T La pénibilité chez les cadres, la grande oubliée de la réforme
+   des retraites (39)
      __________________________________________________________________
 
    Commentaires 4
@@ -907,7 +905,7 @@ Niel toilette sa recette low-cost pour s'implanter en Italie
 
    LaTribune.fr | Tous droits réservés
 
-   [logo-www.png?version=20221123160422]
+   [logo-www.png?version=20221215141925]
 
    Nous contacter
    CGU
