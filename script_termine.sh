@@ -25,7 +25,7 @@ then
 	exit
 fi
 
-mot="[Gg]eeks?(ettes?|é|er)?" # penser à rajouter d'autres formes pour améliorer !! (genre/nombre/les cas! + guillemets ? + écriture emprunté ?)
+mot="[Nn]erds?" # penser à rajouter d'autres formes pour améliorer !! (genre/nombre/les cas! + guillemets ? + écriture emprunté ?)
 mot2= 
 
 

@@ -31,3 +31,5 @@ Nous avons réussi à le régler avec mon groupe.
 J'ai commencé à travailler sérieusement sur le site web de mon git personnel afin de me former. 
 Je travaille avec bulma, grâce à la documentation qu'on peut trouver le site, je suis parvenue à générer une page d'accueil et divers onglets qui mènent à d'autres pages, pour l'instant vides.
 J'ai encore des difficultés quant à l'architecture des pages, c'est que je ne connais pas bien les class html mais je continue d'expérimenter sur ma page personnelle. 
+
+Travail sur les URL pour le mot "nerd" terminé, aucun problème avec les scripts

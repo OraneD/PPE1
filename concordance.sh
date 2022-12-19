@@ -43,7 +43,7 @@ echo "
 <tbody>
 "
 
-grep -E -o "(\w+\W+){0,5}($motif)(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\4<\/td><\/tr>/"
+grep -E -o "(\w+\W+){0,5}($motif)(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($motif)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/"
 
 echo "
 </tbody>
