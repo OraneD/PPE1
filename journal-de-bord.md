@@ -33,3 +33,15 @@ Je travaille avec bulma, grâce à la documentation qu'on peut trouver le site, 
 J'ai encore des difficultés quant à l'architecture des pages, c'est que je ne connais pas bien les class html mais je continue d'expérimenter sur ma page personnelle. 
 
 Travail sur les URL pour le mot "nerd" terminé, aucun problème avec les scripts
+
+Début du travail d'analyse avec itrameur : 
+La prise en main de l'outil est difficile. J'ai d'abord cherché à afficher les cooccurrents pour le mot "geek". J'ai trouvé comment faire cependant il fallait enlever les mots vides. 
+J'ai fini par comprendre comment sélectionner des mots à partir du dictionnaire et du gestionnaire de selection pour créer une stoplist.
+J'ai pu ainsi commencé à analyser les résultats puis je me suis souvenue de la nature double du corpus que nous avions selectionné : 
+environ 25 URL viennent de forums et 25 autres sont des articles de presse. Nous voulions initialement les analyser séparément afin de pouvoir les comparer. 
+Itrameur, avec son système de sections et de parties offre précisément cette possibilité. 
+Étant donné qu'une section correspondant à une page, je pensais simplement lancer les mêmes opérations d'abord sur les 25 premières sections puis sur les 25 autres.
+Malheureusement et malgré un long travail de documentation, je ne parviens pas à sélectionner les sections, je n'arrive pas même à en selectionner une seule :
+Lorsque le "pôle source" est renseigné dans les paramètres, le calcul des cooccurrences, que ce soit dans la partie "section" ou bien "coocs" se lance sur toutes 
+les sections contenant le mot, peu importe les sélections que j'effectue en amont.. 
+Pour résoudre le problème, je pense créer deux fichiers dumps-text séparés, l'un avec les dumps des forums et l'autre avec ceux des articles.. 
