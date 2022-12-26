@@ -1,7 +1,11 @@
-span {
+a {
     color :rgb(255, 255, 255);
+    font-size: 1rem;
 }
 
+a:hover {
+    font-size: 1.4em;
+}
 html, body {background-image: url("https://wallpapercave.com/wp/wp4820378.jpg");
 }
 
@@ -85,4 +89,14 @@ nav > ul li:hover .sous{
 .deroulant > a::after{
 	content:" ▼";
 	font-size: 12px;
+}
+
+.column:hover{
+    cursor:pointer;
+  transform:scale(1.08);
+
+}
+
+.column {
+    transition:transform .4s;
 }
