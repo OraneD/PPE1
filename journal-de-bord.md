@@ -45,3 +45,6 @@ Malheureusement et malgré un long travail de documentation, je ne parviens pas 
 Lorsque le "pôle source" est renseigné dans les paramètres, le calcul des cooccurrences, que ce soit dans la partie "section" ou bien "coocs" se lance sur toutes 
 les sections contenant le mot, peu importe les sélections que j'effectue en amont.. 
 Pour résoudre le problème, je pense créer deux fichiers dumps-text séparés, l'un avec les dumps des forums et l'autre avec ceux des articles.. 
+
+Modification du site avec BULMA :
+Travail sur la page d'accueil du projet (menu déroulant, bannières, liens vers les autres pages ect..)
