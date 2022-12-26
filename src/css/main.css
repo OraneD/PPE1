@@ -1,12 +1,5 @@
-a {
-    color :rgb(255, 255, 255);
-    font-size: 1rem;
-}
-
-a:hover {
-    font-size: 1.4em;
-}
-html, body {background-image: url("https://wallpapercave.com/wp/wp4820378.jpg");
+html, body {
+	background-image: url("https://wallpapercave.com/wp/wp4820378.jpg");
 }
 
 body {margin-left: 15%;
@@ -53,6 +46,12 @@ color:hsl(171, 100%, 96%);
 nav a:hover{
 	color: orange;
 	border-bottom: 2px solid gold;
+	font-size: 1.4em;
+
+}
+
+nav a { 
+	font-size: 1rem;
 
 }
 
