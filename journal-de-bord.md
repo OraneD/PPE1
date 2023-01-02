@@ -48,3 +48,7 @@ Pour résoudre le problème, je pense créer deux fichiers dumps-text séparés,
 
 Modification du site avec BULMA :
 Travail sur la page d'accueil du projet (menu déroulant, bannières, liens vers les autres pages ect..)
+
+Remplissage de la page "analyse français" pour le site. J'ai essayé de faire apparaitre la légende sur les images au passage de la souris mais je n'ai pas réussi. 
+
+Ma part du travail pour le site et pour le projet est terminée. Je n'effectuerai plus que quelques modifications sur le site du projet si mes partenaires le demandent de l'aide.
