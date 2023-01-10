@@ -51,4 +51,21 @@ Travail sur la page d'accueil du projet (menu déroulant, bannières, liens vers
 
 Remplissage de la page "analyse français" pour le site. J'ai essayé de faire apparaitre la légende sur les images au passage de la souris mais je n'ai pas réussi. 
 
-Ma part du travail pour le site et pour le projet est terminée. Je n'effectuerai plus que quelques modifications sur le site du projet si mes partenaires le demandent de l'aide.
+Modification de la page d'accueil du site : j'avais initialement mis des colonnes mais le texte pour chaque colonne est plus grand que prévu. J'ai donc modifié mes "columns" pour qu'elles deviennent de simple
+"box" qui s'étendent horizontalement.
+
+Modification de la barre de navigation : l'onglet selectionné reste en couleur pour indiquer qu'il est bien selectionné. 
+(fait uniquement sur le git du groupe) 
+
+
+-> Bilan :
+
+L'apprentissage de bash a été laborieux notamment car au début du semestre je n'avais aucune notion en informatique. 
+Aujourd'hui, je pense maitriser les bases, je me sers d'ailleurs de la ligne de commande tous les jours dans des cadres autres que scolaires. 
+Je réalise également l'utilité des scripts et ce projet m'a permis d'entrevoir les possibilités qu'offre bash.
+J'ai assez rapidement assimilé github et je l'utilise désormais pour des projets personnels.
+La réalisation du site web m'a poussée à apprendre de 0 HTML et CSS et je dois dire que c'est une bonne surprise. Malgré des débuts difficiles, j'ai particulièrement aimé développer le site web. 
+Je pense que j'ai réussi à acquérir de bonnes bases et je suis ravie d'avoir maintenant à disposition cet outil.
+Enfin concernant iTrameur, là aussi la prise en main a été laborieuse et je ne pense malheureusement pas avoir des compétences suffisantes en linguistique pour pouvoir exploiter comme il se doit son potentiel.
+
+
